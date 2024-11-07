@@ -1,3 +1,4 @@
 j'ajoute une ligne dans ce fichier #utilisateurbis aka Pedro
 Ajout d'une ligne #utilisateuroriginal aka Emerick
+j'ajoute une ligne dans la branche nouvelle feature #utilisateurbis aka Pedro
 
