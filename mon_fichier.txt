@@ -1,2 +1,3 @@
 j'ajoute une ligne dans ce fichier #utilisateurbis aka Pedro
-je rajoute une ligne afin d observer un conflit #utilisateurbis aka Pedro
+Ajout d'une ligne #utilisateuroriginal aka Emerick
+
